@@ -1,0 +1,6 @@
+{
+  "name": "Monarca Party - 1234 Player",
+  "description": "Videojuego educativo y multijugador (1-4 jugadores) inspirado en el ciclo de vida de la mariposa monarca en el Bioparque Monarca, Tenjo, Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
